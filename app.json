@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Teammate AI",
+    "slug": "teammate-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://via.placeholder.com/1024x1024/6c5ce7/ffffff?text=TAI",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "https://via.placeholder.com/1024x1024/0f0f23/ffffff?text=Loading...",
+      "resizeMode": "contain",
+      "backgroundColor": "#0f0f23"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "https://via.placeholder.com/108x108/6c5ce7/ffffff?text=TAI",
+        "backgroundColor": "#0f0f23"
+      },
+      "package": "com.lighterman2001.teammateai"
+    },
+    "web": {
+      "favicon": "https://via.placeholder.com/32x32/6c5ce7/ffffff?text=TAI"
+    }
+  }
+}
